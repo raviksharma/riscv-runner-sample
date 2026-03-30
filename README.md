@@ -1,4 +1,4 @@
-# RISE RISC-V Runner - Sample Test3
+# RISE RISC-V Runner - Sample Test4
 
 This repository demonstrates how to use the [RISE RISC-V Runner](https://github.com/apps/rise-risc-v-runners) GitHub App to run GitHub Actions workflows on RISC-V hardware.
 
