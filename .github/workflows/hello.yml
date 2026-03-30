@@ -10,3 +10,4 @@ jobs:
     runs-on: ubuntu-24.04-riscv
     steps:
       - run: echo "hello from $(uname -m)"
+      - run: lscpu
